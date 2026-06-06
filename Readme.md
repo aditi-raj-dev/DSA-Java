@@ -55,4 +55,8 @@ Programs:
 
 - [x] Day 1 Completed
 - [x] Day 2 Completed
-- [ ] Day 3 Completed
+- [x] Day 3 Completed
+- [x] Day 4 Completed
+- [x] Day 5 Completed
+- [x] Day 6 Completed
+- [x] Day 7 Completed

@@ -1,4 +1,4 @@
-package DAY1;
+package Calculations;
 
 import java.util.Scanner;
 

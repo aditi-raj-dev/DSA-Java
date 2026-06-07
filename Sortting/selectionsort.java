@@ -1,4 +1,4 @@
-package DAY5;
+package Sortting;
 
 public class selectionsort {
     public static void selectionSort(int[] arr) {

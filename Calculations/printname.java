@@ -1,4 +1,4 @@
-package DAY1;
+package Calculations;
 
 public class printname {
     public static void main(String[] args) {

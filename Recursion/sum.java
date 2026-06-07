@@ -1,4 +1,4 @@
-package DAY6;
+package Recursion;
 
 public class sum {
     public static int sum1(int n) {

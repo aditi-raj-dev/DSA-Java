@@ -1,4 +1,4 @@
-package DAY3;
+package Arrays2;
 
 public class existence {
     public static void main(String[] args) {

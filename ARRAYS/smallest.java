@@ -1,4 +1,5 @@
-package DAY2;
+package ARRAYS;
+
 public class smallest {
     public static void main(String[] args) {
         int[] arr = { 4, 7, 0, 1, 5 };

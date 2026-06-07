@@ -1,4 +1,4 @@
-package DAY5;
+package Sortting;
 
 public class Bubblesort {
     public static void bubbleSort(int[] arr) {

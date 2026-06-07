@@ -1,4 +1,4 @@
-package DAY6;
+package Recursion;
 
 public class factorial {
     public static int fact(int n) {

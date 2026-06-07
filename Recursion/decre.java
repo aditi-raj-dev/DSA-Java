@@ -1,4 +1,4 @@
-package DAY6;
+package Recursion;
 
 public class decre {
     public static void print(int n) {

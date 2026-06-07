@@ -1,4 +1,4 @@
-package DAY7;
+package Recursion.DAY7;
 
 public class Power {
     public static int power1(int a, int b) {
